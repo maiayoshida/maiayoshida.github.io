@@ -1,0 +1,227 @@
+a:link {
+  text-decoration: none;
+  color: #5892DC ;
+}
+a:hover {
+  text-decoration: underline;
+  color: inherit;
+}
+a:active {
+  text-decoration: underline;
+  color: inherit;
+}
+a:visited {
+  text-decoration: none;
+  color: #5892DC;
+}
+.btn {
+   background-color: #ffffff;
+}
+
+h1 {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 3.25rem;
+}
+h2 {
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 2.25rem;
+}
+h3 {
+  font-family: 'Libre Franklin', sans-serif;
+  margin-bottom: .25rem;
+  font-size: 1.5rem;
+}
+h4 {
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: 300;
+  font-size: 1.25rem;
+}
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  font-weight: 400;
+}
+p {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;
+}
+a {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;  
+}
+
+html {
+  font-size: 16px;
+  -moz-osx-font-smoothing: grayscale;
+   -webkit-font-smoothing: antialiased;
+   width: 100%;
+   overflow-x: hidden;
+   overflow-y: scroll;
+}
+
+main {
+  background-color: white;
+}
+
+nav a:hover,
+.navbar-light .navbar-nav a.nav-link:hover {
+  color: #EC407A;
+  }
+
+/** Navigation pane **/
+
+
+
+.fixed-top {
+  top: .5rem;
+}
+
+nav {
+  font-family: 'Libre Franklin', sans-serif;
+    margin-left: 5%;
+  font-weight: 300;
+}
+
+.overlay-nav button {
+  background: transparent;
+  color: white;
+}
+.navbar-brand {
+  font-weight: 400;
+  font-size: 150%;
+
+}
+
+.nav-icon a {
+  font-size: 1.25rem;
+  color: rgba(0,0,0,.6);
+}
+
+.btn {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;
+  font-size: 0.875rem;
+}
+
+
+a.nav-link js-scroll-trigger {
+  font-size: .9rem;
+
+}
+
+nav a:hover,
+.navbar-light .navbar-nav a.nav-link:hover {
+  color: #EC407A;
+}
+
+
+.navbar-toggler-icon {
+  width: 1.375rem;
+  height: 1.5rem;
+}
+
+.navbar-toggler,
+.navbar-toggler:focus {
+  border: none;
+}
+
+
+/*header*/
+
+#head {
+  background-image: url('https://image.ibb.co/eGYjUo/IMG_4825.jpg');
+  background-position: 10% 0%;
+  padding: 0;
+}
+
+.intro-col {
+  margin-bottom: 1rem;
+  
+}
+.intro-btn {
+  color: rgba(0,0,0,.7);
+  border-color: rgba(0,0,0,.7);
+}
+.intro-btn:hover {
+  background-color: rgba(0,0,0,.7);
+  color: white;
+}
+.section-img {
+  min-height: calc(25rem + 48px);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+
+/* experience */
+/*https://preview.ibb.co/e6M92J/DSC09389_2.jpg
+https://s8.postimg.cc/tgn9y9wj9/DSC09389_3.jpg
+*/#experience {
+  background-image: url('https://s8.postimg.cc/4i9ynq105/DSC09364.jpg');
+  background-position: 0 35%;
+  padding: 0;
+}
+
+#contact {
+  background-image: url(' https://image.ibb.co/gdsRyz/DSC09389_4.jpg');
+  background-position: 0 35%;
+  padding: 0;
+
+}
+.modal-body > ul li {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;
+  font-size: 0.875rem;
+}
+
+.tab-content {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.tab-pane.active {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.tab-entry {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  background-image: linear-gradient(to right, #575757 10%, transparent 0%);
+  background-position: bottom;
+  background-size: 12px 2px;
+  background-repeat: repeat-x;
+}
+.tab-entry h4 {
+  font-weight: 400;
+}
+.tab-entry h5 {
+  margin-bottom: 1rem;
+}
+.tab-entry a {
+  color: rgba(0,0,0,.75);
+}
+
+.tab-entry img {
+  height: 3rem;
+  margin-bottom: 1rem;
+}
+.inactive {
+  opacity: .6;
+}
+.tab-close {
+  position: absolute;
+  margin-top: -2rem;
+  right: 2rem;
+}
+.tab-close:hover {
+  transform: scale(1.25, 1.25);
+  transition: .25s;
+}
+
+.left {
+    width: 61%;
+    margin-left: 5%;
+}
+
+
