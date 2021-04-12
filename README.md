@@ -1,2 +1,2 @@
-# jonathanavila.github.io
+# maiayoshida.github.io
 Personal Website
