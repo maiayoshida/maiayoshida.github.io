@@ -79,7 +79,8 @@ nav a:hover,
 
 nav {
   font-family: 'Libre Franklin', sans-serif;
-    margin-left: 5%;
+  margin-left: 7.5%;
+
   font-weight: 300;
 }
 
@@ -89,7 +90,7 @@ nav {
 }
 .navbar-brand {
   font-weight: 400;
-  font-size: 150%;
+  font-size: 200%;
 
 }
 
@@ -126,15 +127,6 @@ nav a:hover,
   border: none;
 }
 
-
-/*header*/
-
-#head {
-  background-image: url('https://image.ibb.co/eGYjUo/IMG_4825.jpg');
-  background-position: 10% 0%;
-  padding: 0;
-}
-
 .intro-col {
   margin-bottom: 1rem;
   
@@ -155,21 +147,6 @@ nav a:hover,
 }
 
 
-/* experience */
-/*https://preview.ibb.co/e6M92J/DSC09389_2.jpg
-https://s8.postimg.cc/tgn9y9wj9/DSC09389_3.jpg
-*/#experience {
-  background-image: url('https://s8.postimg.cc/4i9ynq105/DSC09364.jpg');
-  background-position: 0 35%;
-  padding: 0;
-}
-
-#contact {
-  background-image: url(' https://image.ibb.co/gdsRyz/DSC09389_4.jpg');
-  background-position: 0 35%;
-  padding: 0;
-
-}
 .modal-body > ul li {
   font-family: 'Libre Franklin', sans-serif;
   font-weight: 300;
@@ -218,10 +195,11 @@ https://s8.postimg.cc/tgn9y9wj9/DSC09389_3.jpg
   transform: scale(1.25, 1.25);
   transition: .25s;
 }
-
-.left {
-    width: 61%;
-    margin-left: 5%;
+.img-fluid {
+  width: 300;
+  height: 450;
 }
 
+.column {
 
+}
