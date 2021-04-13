@@ -79,8 +79,6 @@ nav a:hover,
 
 nav {
   font-family: 'Libre Franklin', sans-serif;
-  margin-left: 7.5%;
-
   font-weight: 300;
 }
 
@@ -118,8 +116,9 @@ nav a:hover,
 
 
 .navbar-toggler-icon {
-  width: 1.375rem;
-  height: 1.5rem;
+  width: 2rem;
+  height: 3rem;
+  margin-left:0;
 }
 
 .navbar-toggler,
@@ -198,8 +197,4 @@ nav a:hover,
 .img-fluid {
   width: 300;
   height: 450;
-}
-
-.column {
-
 }
